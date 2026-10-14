@@ -23,7 +23,7 @@ Personal lab project simulating enterprise identity and access management using 
 
 ## Screenshots
 **OU structure with user and security group**
-![OU structure](01-OUs.PNG)
+![OU structure](01-ou-structure.PNG)
 
 **IT-Admins group membership**
 ![Group membership](02-OUs.PNG)
