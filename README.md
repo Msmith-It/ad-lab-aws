@@ -26,7 +26,7 @@ Personal lab project simulating enterprise identity and access management using 
 ![OU structure](01-ou-structure.PNG)
 
 **IT-Admins group membership**
-![Group membership](02-OUs.PNG)
+![Group membership](02-group-membership.PNG)
 
 **Password policy set to 12 characters**
 ![Password policy](03-OUs.PNG)
