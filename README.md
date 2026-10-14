@@ -29,4 +29,4 @@ Personal lab project simulating enterprise identity and access management using 
 ![Group membership](02-group-membership.PNG)
 
 **Password policy set to 12 characters**
-![Password policy](03-OUs.PNG)
+![Password policy](03-password-policy.PNG)
