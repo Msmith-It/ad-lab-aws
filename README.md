@@ -31,14 +31,14 @@ Personal lab project simulating enterprise identity and access management using 
 **Password policy set to 12 characters**
 ![Password policy](03-password-policy.PNG)
 
-**Powershell verification**
+**PowerShell verification of policy and users**
 ![Powershell verification](04-powershell-verification.PNG)
 
-**Client dns config**
+**Client DNS pointed to DC**
 ![Client dns config](05-client-dns-config.PNG)
 
-**Domain join**
+**Client01 joined to domain**
 ![Domain join](06-domain-join.PNG)
 
-**Domain user login**
+**Domain user login as jsmith**
 ![domain-user-login](07-domain-user-login.PNG)
