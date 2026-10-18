@@ -33,3 +33,12 @@ Personal lab project simulating enterprise identity and access management using 
 
 **Powershell verification**
 ![Powershell verification](04-powershell-verification.PNG)
+
+**Client dns config**
+![Client dns config](05-client-dns-config.PNG)
+
+**Domain join**
+![Domain join](06-domain-join.PNG)
+
+**Domain user login**
+![domain-user-login](07-domain-user-login.PNG)
