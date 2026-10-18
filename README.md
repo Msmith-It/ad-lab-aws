@@ -30,3 +30,6 @@ Personal lab project simulating enterprise identity and access management using 
 
 **Password policy set to 12 characters**
 ![Password policy](03-password-policy.PNG)
+
+**Powershell verification
+[Powershell verification](04-powershell-verification.PNG)
